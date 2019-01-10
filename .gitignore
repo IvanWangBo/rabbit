@@ -1,0 +1,5 @@
+*.xml
+/.idea/
+*.log
+idea/*.xml
+.DS_Store
